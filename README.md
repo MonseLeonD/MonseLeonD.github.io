@@ -4,7 +4,7 @@
 
 * [1. Intro](https://github.com/MonseLeonD/MonseLeonD.github.io/blob/main/README.md#intro)
 * [2. Qué construí?](https://github.com/MonseLeonD/MonseLeonD.github.io/blob/main/README.md#qu%C3%A9-constru%C3%AD)
-* [3. Objetivo del proyecto](#)
+* [3. Objetivo del proyecto](https://github.com/MonseLeonD/MonseLeonD.github.io/blob/main/README.md#objetivo-del-proyecto)
 
 ****
 
